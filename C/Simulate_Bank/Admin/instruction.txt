@@ -1,0 +1,19 @@
+Instruction manual.
+When opening the program, there are 2 modes to choose from.
+1) Login by admin
+Enter the password correctly. And in this mode, all 7 modes are selected.
+	1-add user The system will give you an account number to use for logging in. The password must be entered manually. and must fill in personal information as well
+	2-delete user account Choose whether to delete the account or not, enter the account number, the system will delete it and notify you that it can be deleted. If it can't be deleted, it will say that the deletion failed or this account doesn't exist.
+	3-Edit user information, there will be 2 sub-modes to choose from: edit admin information. and edit user data By editing the admin information, when pressed, it must be specified. New name and code As for editing user information, the account number must be specified. When it can be opened, it must edit all data. Except account numbers that can't be edited
+	4- show user information When pressed this mode will display all users on all systems.
+	5-Deposit When selecting this mode, specify the account number to deposit. Then the statement information will be displayed. Then let us fill in the deposit amount.
+	6-Withdrawal When selecting this mode, specify the account number that you want to withdraw. Then the statement information will be displayed. Then let us enter the withdrawal amount.
+	7-show statement will fill in the account number When completed, the statement of that account number will be displayed.
+	8 - reset program When selecting this mode, it will ask the user again, if the user agrees, it will delete all programs.
+2) Login by user When exiting this mode, the password must be entered correctly. And there are 6 working modes in total.
+	1-delete user account will delete the account and the system will delete it and notify you that it can be deleted. If it can't be deleted, it will say that the deletion failed or this account doesn't exist.
+	2-Edit user information will fix all data Except account numbers that can't be edited
+	3-Show user information When pressed this mode will display all users on all systems.
+	4-Deposit When selecting this mode, the statement information will be displayed. Then let us fill in the deposit amount.
+	5-Withdrawal When selecting this mode, the statement information will be displayed. Then let us enter the withdrawal amount.
+	6-Show statement The statement of that account number will be displayed.
